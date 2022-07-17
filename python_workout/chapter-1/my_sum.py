@@ -38,6 +38,8 @@ def words(word_list: list):
     print(word_tuple)
     return word_tuple
 
+
+
 if __name__ == "__main__":
     mysum(10, 20, 30, 40, starting_point=2)
     average([10, 20, 30, 40])
